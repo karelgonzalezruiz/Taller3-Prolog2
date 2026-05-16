@@ -1,4 +1,4 @@
-# Taller2-Prolog2
+# Taller3-Prolog2
 Resolución del Taller 2
 
 Que hice en este taller:
