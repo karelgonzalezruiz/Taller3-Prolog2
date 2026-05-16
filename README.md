@@ -1,5 +1,5 @@
 # Taller3-Prolog2
-Resolución del Taller 3
+Resolución del Taller 3.
 
 Que hice en este taller:
 
